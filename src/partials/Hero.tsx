@@ -12,14 +12,16 @@ const Hero = () => (
 
         <div class="relative mt-5 mb-0">
           <h3 class="font-light text-4xl -tracking-wider mt-0 mb-8 mx-0">
-            Jingjie Li <span class="text-3xl opacity-60">(李竞捷) </span>
+            Jingjie Li <span class="text-2xl opacity-60"> </span>
           </h3>
 
         </div>
       }
       description={
           <h4 class="font-light mt-0 mb-4 mx-0">
-            I am a Lecturer/Asstistant Professor in the School of Informatics, University of Edinburgh and member of the Institute for Computing Systems Architecture.
+            I am a Lecturer (Asstistant Professor) in the School of Informatics, University of Edinburgh.
+            As a researcher, I am passionate about solving emerging challenges towards making digital technologies more human-centric, efficient, and safer.
+
             nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
             <a className="text-cyan-400 hover:underline" href="/">
               consectetur
