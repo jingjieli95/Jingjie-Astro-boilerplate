@@ -2,6 +2,8 @@
 import { Footer } from '@/partials/Footer';
 import { Navbar } from '@/partials/Navbar';
 import { AppConfig } from '@/utils/AppConfig';
+import { ViewTransitions } from 'astro:transitions';
+import { GoogleFontsOptimizer } from "astro-google-fonts-optimizer";
 
 export interface Props {
   head: {
@@ -25,8 +27,11 @@ const {
 
     <link rel='alternate' type='application/rss+xml' href='/rss.xml' />
     <link rel='icon' type='image/x-icon' href='/favicon.ico' />
+    <GoogleFontsOptimizer url="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap">
+    </GoogleFontsOptimizer>
+    <ViewTransitions />
   </head>
-  <body class='font-mono text-base antialised flex flex-col min-h-screen text-zinc-900 font-normal bg-slate-900 text-gray-100'>
+  <body class='font-mono text-base antialised flex flex-col min-h-screen text-zinc-900 font-normal bg-gray-100 text-gray-100'>
     <Navbar />
 
     <slot></slot>
