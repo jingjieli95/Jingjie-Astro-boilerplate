@@ -3,6 +3,8 @@ import {
   HeroAvatar,
   HeroSocial,
   Section,
+  ColorTags,
+  Tags,
 } from 'astro-boilerplate-components';
 
 const Hero = () => (
@@ -18,20 +20,32 @@ const Hero = () => (
         </div>
       }
       description={
-          <h4 class="font-light mt-0 mb-4 mx-0">
+        <div>
+          <p class="font-light text-sm mt-0 mb-4 mx-0">
             I am a Lecturer (Asstistant Professor) in the School of Informatics, University of Edinburgh.
-            As a researcher, I am passionate about solving emerging challenges towards making digital technologies more human-centric, efficient, and safer.
+            As a researcher in computer systems and cybersecurity, I am passionate about solving big challenges towards making emerging digital technologies -- such as 
+            smart home 🛜, AR/VR 👾, and AI 🤖 systems -- <mark>safer</mark>, 
+            more <mark>human-centric</mark>, and more <mark>efficient</mark>. 
+            My research allows me to do a range of things that exhaust my daydreams, from building tools against "mind-reading" to 
+            exploring the boundaries between machines and human agency.
+          </p>
 
-            nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
-            <a className="text-cyan-400 hover:underline" href="/">
-              consectetur
-            </a>{' '}
-            adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          <h4 class="font-light text-sm mt-0 mb-4 mx-0">
+            During my academic journey, I left footprints in four continents and am actively collaborating with talents across the globe. 
+            If you are interested in working with me or joining my research team, feel free to drop me an email :)
           </h4>
+
+
+
+        </div>
+
+
+
+          
       }
       avatar={
         <img
-          className="h-60 w-50"
+          className="h-80"
           src="/assets/images/Headshot_Jingjie Li.png"
           alt="Avatar image"
           loading="lazy"
