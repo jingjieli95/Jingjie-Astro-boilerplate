@@ -19,6 +19,34 @@ const Hero = () => (
 
         </div>
       }
+      socialButtons={
+        <div class="flex row mt-0 mb-4 mx-0" >
+          <a href="https://twitter.com/j_j_li" class="opacity-60">
+            <HeroSocial
+              src="/assets/images/icon-twitter.png"
+              alt="Twitter icon"
+            />
+          </a>
+          <a href="/" class="opacity-60">
+            <HeroSocial
+              src="/assets/images/cv-icon.png"
+              alt="CV icon"
+            />
+          </a>
+          <a href="/" class="opacity-60">
+            <HeroSocial
+              src="/assets/images/linkedin-icon.png"
+              alt="Linkedin icon"
+            />
+          </a>
+          <a href="/" class="opacity-60">
+            <HeroSocial
+              src="/assets/images/linkedin-icon.png"
+              alt="Linkedin icon"
+            />
+          </a>
+        </div>
+      }
       description={
         <div>
           <p class="font-light text-sm mt-0 mb-4 mx-0">
@@ -51,28 +79,8 @@ const Hero = () => (
           loading="lazy"
         />
       }
-      socialButtons={
-        <>
-          <a href="https://twitter.com/j_j_li">
-            <HeroSocial
-              src="/assets/images/icon-twitter.png"
-              alt="Twitter icon"
-            />
-          </a>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/cv-icon.png"
-              alt="CV icon"
-            />
-          </a>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/linkedin-icon.png"
-              alt="Linkedin icon"
-            />
-          </a>
-        </>
-      }
+
+
     />
   </Section>
 );
