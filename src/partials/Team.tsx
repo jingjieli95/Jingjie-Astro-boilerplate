@@ -1,0 +1,75 @@
+import {
+  ColorTags,
+  GradientText,
+  Project,
+  Section,
+  Tags,
+} from 'astro-boilerplate-components';
+
+const Team = () => (
+    <Section
+    title={
+
+      <div>
+        <h3 class="font-light">
+          Research <span class="text-blue-900">Team Members</span>
+        </h3>
+      </div>
+
+
+    }
+    children={
+
+
+      <div>
+      
+      <h3 class="text-blue-900">PhD Students</h3>
+         <ul class="list-disc list-inside font-light text-sm indent-6">
+            <li> <a href="https://a.cupof.beer/"> <GradientText> Jiuming Jiang </GradientText> </a> (2024 - Present, as primary supervisor) </li>
+            <li> <a href="https://blogs.ed.ac.uk/yangheran_piao/"> <GradientText> Lawrence Piao </GradientText> </a> (2023 - Present, as co-supervisor)  </li>
+            <li> Temima Hrle (2023 - Present, as co-supervisor)  </li>
+
+         </ul>
+
+      <h3 class="text-blue-900">Undergrad Researchers and Interns</h3>
+         <ul class="list-disc list-inside font-light text-sm indent-6">
+            <li> Bei Yi Ng (2024 - Present, Philosophy, Psychology, & Language) </li>
+            <li> Carrie Li (2024 - Present, Informatics)  </li>
+            <li> Helen Wang (2024 - Present, Informatics)  </li>
+            <li> Justin Tong (2024 - Present, Informatics)  </li>
+            <li> Karen Zheng (2024 - Present, Informatics)  </li>
+          </ul>
+
+
+
+      <h3 class="text-blue-900">Alumni</h3>
+         <ul class="list-disc list-inside font-light text-sm indent-6">
+            <li> Luna Rubio (2024, MSc @ Philosophy, Psychology, & Language) </li>
+            <li> Akshay Gautam (2024, UG @ Informatics)  </li>
+            <li> Joshua Hew (2024, UG @ Philosophy, Psychology, & Language)  </li>
+            <li> Diya Goel (2024, UG @ Philosophy, Psychology, & Language)  </li>
+          </ul>
+
+      </div>
+
+
+
+
+  
+ 
+
+
+
+
+
+
+    }
+
+
+  >
+
+  </Section>
+
+);
+
+export { Team };

@@ -17,7 +17,7 @@ const ProjectList = () => (
       </div>
     
     <div className="font-light text-sm">
-          <a href="/posts/">View all publications →</a>
+          <a href="/publication/">View all publications →</a>
         </div>
       </div>
     }

@@ -14,6 +14,9 @@ import { Sponsors } from '@/partials/Sponsors';
 import Base from '@/templates/Base.astro';
 import { AppConfig } from '@/utils/AppConfig';
 import { sortByDate } from '@/utils/Posts';
+import { Publication } from '@/partials/Publication';
+import { Publication } from '@/partials/Team';
+import { Publication } from '@/partials/Teaching';
 
 const allPosts = await Astro.glob<IFrontmatter>('./posts/*.md');
 const sortedPosts = sortByDate(allPosts);

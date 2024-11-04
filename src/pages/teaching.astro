@@ -1,0 +1,21 @@
+---
+import type { IFrontmatter } from 'astro-boilerplate-components';
+
+
+import Base from '@/templates/Base.astro';
+import { AppConfig } from '@/utils/AppConfig';
+import { Teaching } from '@/partials/Teaching';
+
+
+
+const { title } = AppConfig;
+const { description } = AppConfig;
+---
+
+<Base head={{ title, description }}>
+
+  <Teaching />
+
+
+
+</Base>
