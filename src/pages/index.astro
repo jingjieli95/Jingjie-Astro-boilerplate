@@ -8,6 +8,7 @@ import { Education } from '@/partials/Education';
 import { ProjectList } from '@/partials/ProjectList';
 import { Awards } from '@/partials/Awards';
 import { Services } from '@/partials/Services';
+import { Updates } from '@/partials/Updates';
 import { RecentPosts } from '@/partials/RecentPosts';
 import { Sponsors } from '@/partials/Sponsors';
 import Base from '@/templates/Base.astro';
@@ -29,6 +30,6 @@ const { description } = AppConfig;
   <ProjectList />
   <Awards />
   <Services />
-  <RecentPosts postList={lastThreePosts} />
-  <CTA />
+  <Updates />
+
 </Base>
