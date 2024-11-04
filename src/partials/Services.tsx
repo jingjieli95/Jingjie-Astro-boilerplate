@@ -22,7 +22,7 @@ const Services = () => (
     <ul class="list-disc list-inside font-light text-base">
       <li><span class="text-blue-900">Program Committee Member</span>
          <ul class="list-disc list-inside font-light text-sm indent-12">
-            <li> ACM CCS (2023, 2024, & 2025) </li>
+            <li> ACM CCS (2023, 2024 & 2025) </li>
             <li> USENIX Security (2025)</li>
             <li> EuroUSEC (2024)</li>
             <li> IEEE SafeThings (2023)</li>

@@ -19,7 +19,7 @@ const Navbar = () => (
             loading="lazy"
           />
         }
-          name=<span class="indent-2"> Jingjie @ Edinburgh </span>
+          name=<span class="indent-2 font-light"> Jingjie @ Edinburgh </span>
         />
       </a>
 
