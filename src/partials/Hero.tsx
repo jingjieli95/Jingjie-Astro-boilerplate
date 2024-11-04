@@ -30,22 +30,16 @@ const Hero = () => (
               alt="Twitter icon"
             />
           </a>
-          <a href="/" class="opacity-60">
+          <a href="https://scholar.google.com/citations?user=P8qaRuwAAAAJ&hl=en" class="opacity-60">
             <HeroSocial
-              src="/assets/images/cv-icon.png"
-              alt="CV icon"
+              src="/assets/images/icon-google-scholar.png"
+              alt="Scholar icon"
             />
           </a>
-          <a href="/" class="opacity-60">
+          <a href="mailto: jingjie.li@ed.ac.uk" class="opacity-60">
             <HeroSocial
-              src="/assets/images/linkedin-icon.png"
-              alt="Linkedin icon"
-            />
-          </a>
-          <a href="/" class="opacity-60">
-            <HeroSocial
-              src="/assets/images/linkedin-icon.png"
-              alt="Linkedin icon"
+              src="/assets/images/icon-mail.png"
+              alt="Mail icon"
             />
           </a>
         </div>
@@ -63,7 +57,7 @@ const Hero = () => (
 
           <h4 class="font-light text-sm mt-0 mb-4 mx-0">
             During my academic journey, I left footprints in four continents and am actively collaborating with talents across the globe. 
-            If you are interested in working with me or joining my research team, feel free to drop me an email :)
+            If you are interested in working with me or joining my <a href="/team/"> <GradientText> research team </GradientText> </a>, feel free to drop me an email :)
           </h4>
 
 
@@ -77,7 +71,7 @@ const Hero = () => (
       avatar={
         <img
           className="h-80"
-          src="/assets/images/Headshot_Jingjie Li.png"
+          src="/assets/images/Headshot_Jingjie Li_bg.png"
           alt="Avatar image"
           loading="lazy"
         />

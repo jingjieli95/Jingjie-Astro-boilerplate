@@ -40,6 +40,15 @@ const Team = () => (
             <li> Karen Zheng (2024 - Present, Informatics)  </li>
           </ul>
 
+      <div class="bg-orange-100 border-l-4 border-orange-500 text-orange-700 p-4" role="alert">
+        <p class="font-bold text-base">For prospective students</p>
+        <p class="text-sm">I am actively looking for prospective Ph.D. students to join my team. I also welcome students (undergrad/MSc) 
+         at Edinburgh who are looking for research opportunities. Please feel free to contact me by email with your CV and research interests. 
+         (I will carefully read your emails, but I may not be able to reply to everyone due to the volume of emails recevied.)</p>
+      </div>
+
+
+
 
 
       <h3 class="text-blue-900">Alumni</h3>
