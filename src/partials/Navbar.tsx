@@ -11,7 +11,15 @@ const Navbar = () => (
     <NavbarTwoColumns>
       <a href="/">
         <Logo
-          name="Jingjie @ Edinburgh"
+          icon={
+          <img
+            className="h-10"
+            src="/edinburgh-logo.png"
+            alt="university logo"
+            loading="lazy"
+          />
+        }
+          name=<span class="indent-2"> Jingjie @ Edinburgh </span>
         />
       </a>
 
