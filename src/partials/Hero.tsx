@@ -11,13 +11,16 @@ const Hero = () => (
   <Section>
     <HeroAvatar
       title={
+        <div className="flex items-baseline justify-between">
+          <div class="relative mt-5 mb-0">
+            <h3 class="font-light text-4xl -tracking-wider mt-0 mb-8 mx-0">
+              Jingjie Li <span class="text-2xl opacity-60"> </span>
+            </h3>
 
-        <div class="relative mt-5 mb-0">
-          <h3 class="font-light text-4xl -tracking-wider mt-0 mb-8 mx-0">
-            Jingjie Li <span class="text-2xl opacity-60"> </span>
-          </h3>
+          </div>
 
         </div>
+
       }
       socialButtons={
         <div class="flex row mt-0 mb-4 mx-0" >
