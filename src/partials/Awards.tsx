@@ -29,8 +29,8 @@ const Awards = () => (
       <li><span class="text-blue-900">Norton Labs Graduate Fellowship Finalist </span> 
       <span class="italic">(2022)</span>
       </li>
-      <li><span class="text-blue-900">Facebook Towards Trustworthy Products in AR, VR, and Smart Devices Award</span>  
-      <span class="italic">(2019 & 2021)</span>
+      <li><span class="text-blue-900">Facebook Towards Trustworthy Products in AR, VR, and Smart Devices Award </span>  
+      <span class="italic">(2021)</span>
       </li>
       <li><span class="text-blue-900">Qualcomm Innovation Fellowship Finalist </span> 
       <span class="italic">(2019 & 2021)</span>
