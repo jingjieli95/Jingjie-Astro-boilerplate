@@ -26,7 +26,7 @@ const ProjectList = () => (
       <Project
         name={<span class="font-light text-lime-300 font-xl">User-Centric Security and Privacy Control</span>}
         description={<span class="text-sm text-slate-100">Security and privacy are "expensive" for cyber-physical systems that interact with users.
-        Our research uncovers risks from the novel use of digital technologies, e.g., personalized AI [CHI19, TiiS20]; we design tools to make security and privacy practical and affordable to end-users, by preserving 
+        Our research uncovers risks from the novel use of digital technologies, e.g., AI personalization [CHI19, TiiS20]; we design tools to make security and privacy practical and affordable to end-users, by preserving 
         utilities and offering flexible and automated controls, in applications such as AR/VR technologies [USENIX Security21], IoT systems [ACM CCS19, MobiQuitous19]. </span>}
         img={{
           src: '/assets/images/privacy control_illustration.png',
