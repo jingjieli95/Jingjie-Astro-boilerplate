@@ -33,7 +33,7 @@ const Team = () => (
 
       <h3 class="text-blue-900">Undergrad Researchers and Interns</h3>
          <ul class="list-disc list-inside font-light text-sm indent-6">
-            <li> Bei Yi Ng (2024 - Present, Philosophy, Psychology, & Language) </li>
+            <li> Bei Yi Ng (2024 - Present, Philosophy, Psychology & Language) </li>
             <li> Carrie Li (2024 - Present, Informatics)  </li>
             <li> Helen Wang (2024 - Present, Informatics)  </li>
             <li> Justin Tong (2024 - Present, Informatics)  </li>
@@ -53,10 +53,10 @@ const Team = () => (
 
       <h3 class="text-blue-900">Alumni</h3>
          <ul class="list-disc list-inside font-light text-sm indent-6">
-            <li> Luna Rubio (2024, MSc @ Philosophy, Psychology, & Language) </li>
+            <li> Luna Rubio (2024, MSc @ Philosophy, Psychology & Language) </li>
             <li> Akshay Gautam (2024, UG @ Informatics)  </li>
-            <li> Joshua Hew (2024, UG @ Philosophy, Psychology, & Language)  </li>
-            <li> Diya Goel (2024, UG @ Philosophy, Psychology, & Language)  </li>
+            <li> Joshua Hew (2024, UG @ Philosophy, Psychology & Language)  </li>
+            <li> Diya Goel (2024, UG @ Philosophy, Psychology & Language)  </li>
           </ul>
 
       </div>
