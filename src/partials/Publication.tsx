@@ -20,6 +20,14 @@ const Publication = () => (
     }
     children={
     <ul class="list-disc list-inside font-light text-base">
+
+      <li><span class="text-blue-900">"Impressively Scary:" Exploring User Perceptions and Reactions to Unraveling Machine Learning Models in Social Media Applications  </span> 
+         <ul class="list-undisc list-inside font-light text-sm indent-6">
+            <li> Jack West, Bengisu Cagiltay, Shirley Zhang, Jingjie Li, Kassem Fawaz, and Suman Banerjee </li>
+            <li> ACM Conference on Human Factors in Computing Systems (CHI), 2025 (To appear)</li>
+          </ul>
+      </li>
+
       <li><span class="text-blue-900">Exploring Reddit Users’ Questions and Advice on the Legality of Port Scans </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Temima Hrle, Mary Milad, Jingjie Li, and Daniel Woods </li>
