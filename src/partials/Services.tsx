@@ -28,6 +28,12 @@ const Services = () => (
             <li> IEEE SafeThings (2023)</li>
           </ul>
       </li>
+      <li><span class="text-blue-900">Organizing Committee Member</span>
+          <ul class="list-disc list-inside font-light text-sm indent-12">
+            <li> EuroSys (2026) </li>
+            <li> MobiUK (2025)</li>
+          </ul>     
+      </li>
       <li><span class="text-blue-900">Reviewer</span>
          <ul class="list-disc list-inside font-light text-sm indent-12"> <li> I regularly accept review invitations for conferences and journals in computer and mobile systems 
             (e.g., IEEE TC, IEEE TMC, IEEE Pervasive Computing), cybersecurity (e.g., IEEE S&P Magazine), and HCI (ACM CHI and ACM CSCW).</li>

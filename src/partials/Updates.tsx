@@ -20,6 +20,7 @@ const Updates = () => (
     }
     children={
     <ul class="list-disc list-inside font-light text-sm overflow-y-auto h-64 bg-sky-50">
+      <li> 01/2025 - Our work on on-device AI transprency is accepted by ACM CHI 2025, congrats to Jack! </li>
       <li> 10/2024 - With Civic Digits, Citadel Youth Centre, and Dr. Tara Capel @ Design Informatics of UoE, we successfully concluded the <a href="https://www.linkedin.com/pulse/hack-your-age-intergenerational-dive-tech-drama-design-ryan-mckay--u0uce"><GradientText> 
       Hack Your Age</GradientText></a> workshop, which engaged intergenerational participants from Edinburgh in imagining risks of the future technologies through maker space and performance experiences. Stay tuned for futuer events!</li>
       <li> 10/2024 - Jiuming successfully defended his thesis at Imperial College and joined our group for his PhD at University of Edinburgh. </li>
