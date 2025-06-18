@@ -21,10 +21,27 @@ const Publication = () => (
     children={
     <ul class="list-disc list-inside font-light text-base">
 
+      <li><span class="text-blue-900">Privacy Bills of Materials: A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development  </span> 
+         <ul class="list-undisc list-inside font-light text-sm indent-6">
+            <li> Zhen Tao, Shidong Pan, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li and Liming Zhu</li>
+            <li> Proceedings on Privacy Enhancing Technologies (PoPETs), 2025</li>
+            <li> <a href="https://arxiv.org/pdf/2501.01131" class="bg-slate-500"> PDF </a> </li>
+          </ul>
+      </li>
+
+      <li><span class="text-blue-900">A Glimpse Into the Pandora's Box - Demystifying on-device AI on Instagram and TikTok  </span> 
+         <ul class="list-undisc list-inside font-light text-sm indent-6">
+            <li> Jack West, Jingjie Li, and Kassem Fawaz</li>
+            <li> Communications of the ACM, 2025</li>
+            <li> <a href="https://dl.acm.org/doi/full/10.1145/3714417" class="bg-slate-500"> PDF </a> </li>
+          </ul>
+      </li>
+
       <li><span class="text-blue-900">"Impressively Scary:" Exploring User Perceptions and Reactions to Unraveling Machine Learning Models in Social Media Applications  </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Jack West, Bengisu Cagiltay, Shirley Zhang, Jingjie Li, Kassem Fawaz, and Suman Banerjee </li>
-            <li> ACM Conference on Human Factors in Computing Systems (CHI), 2025 (To appear)</li>
+            <li> ACM Conference on Human Factors in Computing Systems (CHI), 2025</li>
+            <li> <a href="https://dl.acm.org/doi/10.1145/3706598.3713256" class="bg-slate-500"> PDF </a> </li>
           </ul>
       </li>
 

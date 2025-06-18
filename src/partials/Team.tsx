@@ -26,6 +26,7 @@ const Team = () => (
       <h3 class="text-blue-900">PhD Students</h3>
          <ul class="list-disc list-inside font-light text-sm indent-6">
             <li> <a href="https://a.cupof.beer/"> <GradientText> Jiuming Jiang </GradientText> </a> (2024 - Present, as primary supervisor) </li>
+            <li> <a href=""> <GradientText> Karen Jiamin Zheng </GradientText> </a> (2025 - Present, as primary supervisor) </li>
             <li> <a href="https://blogs.ed.ac.uk/yangheran_piao/"> <GradientText> Lawrence Piao </GradientText> </a> (2023 - Present, as co-supervisor)  </li>
             <li> Temima Hrle (2023 - Present, as co-supervisor)  </li>
 
@@ -37,7 +38,6 @@ const Team = () => (
             <li> Carrie Li (2024 - Present, Informatics)  </li>
             <li> Helen Wang (2024 - Present, Informatics)  </li>
             <li> Justin Tong (2024 - Present, Informatics)  </li>
-            <li> Karen Zheng (2024 - Present, Informatics)  </li>
           </ul>
 
       <div class="bg-orange-100 border-l-4 border-orange-500 text-orange-700 p-4" role="alert">
@@ -53,6 +53,7 @@ const Team = () => (
 
       <h3 class="text-blue-900">Alumni</h3>
          <ul class="list-disc list-inside font-light text-sm indent-6">
+            <li> Karen Zheng (2025, UG @ Informatics)  </li>
             <li> Luna Rubio (2024, MSc @ Philosophy, Psychology & Language) </li>
             <li> Akshay Gautam (2024, UG @ Informatics)  </li>
             <li> Joshua Hew (2024, UG @ Philosophy, Psychology & Language)  </li>
