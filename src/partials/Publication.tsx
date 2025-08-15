@@ -21,6 +21,14 @@ const Publication = () => (
     children={
     <ul class="list-disc list-inside font-light text-base">
 
+      <li><span class="text-blue-900">Reliable Heading Tracking for Pedestrian Road Crossing Prediction Using Commodity Devices  </span> 
+         <ul class="list-undisc list-inside font-light text-sm indent-6">
+            <li> Yucheng Yang, Jingjie Li, and Kassem Fawaz</li>
+            <li> IEEE Transactions on Mobile Computing, 2025</li>
+            <li> <a href="https://ieeexplore.ieee.org/abstract/document/11106745" class="bg-slate-500"> PDF </a> </li>
+          </ul>
+      </li>
+
       <li><span class="text-blue-900">Privacy Bills of Materials: A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development  </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Zhen Tao, Shidong Pan, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li and Liming Zhu</li>
