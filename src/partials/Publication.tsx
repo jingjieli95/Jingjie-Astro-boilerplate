@@ -114,7 +114,7 @@ const Publication = () => (
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Di Wu, Jingjie Li, Ruokai Yin, Hsuan Hsiao, Younghyun Kim, and Joshua San Miguel​</li>
             <li> IEEE Micro (Special Issue on IEEE Micro Top Picks), 2021 </li>
-            <li> <a href="https://ieeexplore.ieee.org/abstract/document/9502473" class="bg-slate-500"> PDF</a>  
+            <li> <a href="https://ieeexplore.ieee.org/document/9376243" class="bg-slate-500"> PDF</a>  
             <a> </a> <a class="bg-red-500" >🏆 IEEE Micro Top Pick </a></li>
           </ul>
       </li>  
@@ -123,7 +123,7 @@ const Publication = () => (
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Jingjie Li, Amrita Roy Chowdhury, Kassem Fawaz, and Younghyun Kim</li>
             <li> USENIX Security Symposium (USENIX Sec.), 2021 </li>
-            <li> <a href="https://ieeexplore.ieee.org/abstract/document/9502473" class="bg-slate-500"> PDF</a>  
+            <li> <a href="https://www.usenix.org/conference/usenixsecurity21/presentation/li-jingjie" class="bg-slate-500"> PDF</a>  
             <a> </a> <a class="bg-lime-500" href="https://www.ftc.gov/news-events/events/2022/11/privacycon-2022">📢 US FTC PrivacyCon</a>
             <a> </a> <a class="bg-red-500" >🏆 Towards Trustworthy Products in AR, VR, and Smart Devices Award </a></li>
           </ul>
