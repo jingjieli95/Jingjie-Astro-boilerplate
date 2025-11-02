@@ -27,7 +27,7 @@ const Team = () => (
          <ul class="list-disc list-inside font-light text-sm indent-6">
             <li> <a href="https://a.cupof.beer/"> <GradientText> Jiuming Jiang </GradientText> </a> (2024 - Present, as primary supervisor) </li>
             <li> <a href=""> <GradientText> Karen Jiamin Zheng </GradientText> </a> (2025 - Present, as primary supervisor) </li>
-            <li> <a href=""> <GradientText> Yan Wang </GradientText> </a> (2025 - Present, as primary supervisor) </li>
+            <li> <a href="https://wyhmhs.github.io/"> <GradientText> Yan Wang </GradientText> </a> (2025 - Present, as primary supervisor) </li>
             <li> <a href="https://blogs.ed.ac.uk/yangheran_piao/"> <GradientText> Lawrence Piao </GradientText> </a> (2023 - Present, as co-supervisor)  </li>
             <li> Temima Hrle (2023 - Present, as co-supervisor)  </li>
 
