@@ -57,11 +57,11 @@ const Team = () => (
             <li> Jessica Chen (2025, Electrical Engineering) </li>
             <li> Bei Yi Ng (2024 - 2025, Philosophy, Psychology & Language) </li>
             <li> Carrie Li (2024 - 2025, Informatics)  </li>
-            <li> Helen Wang (2024 - 2025, Informatics) -> MPhil student @ Cambridge </li>
+            <li> Helen Wang (2024 - 2025, Informatics) -&gt; MPhil student @ Cambridge </li>
             <li> Justin Tong (2024 - 2025, Informatics)  </li>
             <li> Karen Zheng (2024 - 2025, UG @ Informatics) -> Ph.D. student @ UoE</li>
             <li> Luna Rubio (2024, MSc @ Philosophy, Psychology & Language) </li>
-            <li> Akshay Gautam (2024, UG @ Informatics) -> Ph.D. student @ UoE </li>
+            <li> Akshay Gautam (2024, UG @ Informatics) -&gt; Ph.D. student @ UoE </li>
             <li> Joshua Hew (2024, UG @ Philosophy, Psychology & Language)  </li>
             <li> Diya Goel (2024, UG @ Philosophy, Psychology & Language)  </li>
           </ul>
