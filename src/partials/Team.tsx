@@ -33,14 +33,6 @@ const Team = () => (
 
          </ul>
 
-      // <h3 class="text-blue-900">Undergrad Researchers and Interns</h3>
-      //    <ul class="list-disc list-inside font-light text-sm indent-6">
-      //       <li> Bei Yi Ng (2024 - Present, Philosophy, Psychology & Language) </li>
-      //       <li> Carrie Li (2024 - Present, Informatics)  </li>
-      //       <li> Helen Wang (2024 - Present, Informatics)  </li>
-      //       <li> Justin Tong (2024 - Present, Informatics)  </li>
-      //     </ul>
-
       <div class="bg-orange-100 border-l-4 border-orange-500 text-orange-700 p-4" role="alert">
         <p class="font-bold text-base">For prospective students</p>
         <p class="text-sm">I am actively looking for prospective Ph.D. students to join my team. I also welcome students (undergrad/MSc) 
