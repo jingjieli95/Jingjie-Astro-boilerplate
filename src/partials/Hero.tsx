@@ -47,7 +47,7 @@ const Hero = () => (
       description={
         <div>
           <p class="font-light text-sm mt-0 mb-4 mx-0">
-            I am a Lecturer (Asstistant Professor) in the School of Informatics, University of Edinburgh.
+            I am a Lecturer (Assistant Professor) in the School of Informatics, University of Edinburgh.
             As a researcher in computer systems and cybersecurity, I am passionate about solving big challenges towards making emerging digital technologies -- such as 
             smart home 🛜, AR/VR 👾, and AI 🤖 systems -- <mark>safer</mark>, 
             more <mark>human-centric</mark>, and more <mark>efficient</mark>. 
