@@ -21,6 +21,30 @@ const Publication = () => (
     children={
     <ul class="list-disc list-inside font-light text-base">
 
+      <li><span class="text-blue-900">Characterizing Scam-Driven Human Trafficking Across Chinese Borders and Online Community Responses on RedNote </span> 
+         <ul class="list-undisc list-inside font-light text-sm indent-6">
+            <li> Jiamin Karen Zheng, Yue Deng, Jessica Chen, Shujun Li, Yixin Zou, and Jingjie Li</li>
+            <li> ACM Conference on Human Factors in Computing Systems (CHI), 2026 (To appear)</li>
+            <li> <a href="" class="bg-slate-500"> PDF </a> </li>
+          </ul>
+      </li>
+
+      <li><span class="text-blue-900">Speculative Performance: Staging Intergenerational Speculation to Explore Critical Literacies of Technological Futures </span> 
+         <ul class="list-undisc list-inside font-light text-sm indent-6">
+            <li> Tara Capel, Jingjie Li, Kimberley Paradis, Peter Bentley, Ryan McKay, Rupert Goodwins, Willy Barr, and Clare Duffy</li>
+            <li> ACM Conference on Human Factors in Computing Systems (CHI), 2026 (To appear)</li>
+            <li> <a href="" class="bg-slate-500"> PDF </a> </li>
+          </ul>
+      </li>
+
+      <li><span class="text-blue-900">''Abuse Risks are Often Inherent to Product Features'': Exploring AI Vendors’ Bug Bounty and Responsible Disclosure Policies </span> 
+         <ul class="list-undisc list-inside font-light text-sm indent-6">
+            <li> Yangheran Piao, Jingjie Li, and Daniel W. Woods</li>
+            <li> USENIX Security Symposium (USENIX Sec.), 2026 (To appear)</li>
+            <li> <a href="" class="bg-slate-500"> PDF </a> </li>
+          </ul>
+      </li>
+
       <li><span class="text-blue-900">Reliable Heading Tracking for Pedestrian Road Crossing Prediction Using Commodity Devices  </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Yucheng Yang, Jingjie Li, and Kassem Fawaz</li>
