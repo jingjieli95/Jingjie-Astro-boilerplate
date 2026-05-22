@@ -24,6 +24,8 @@ const Positions = () => (
           University of Edinburgh <span class="italic">(2023 - Present)</span>
           <ul class="list-disc list-inside font-light text-sm indent-12">
             <li> Member of the Institute for Computing Systems Architecture, School of Informatics</li>
+            <li> Affiliate Member of the Security, Privacy and Trust Group, School of Informatics</li>
+            <li> Affiliate Member of the Edinburgh Futures Institute</li>
             <li> Member of the Ethics Committee, School of Informatics</li>
           </ul>
 
