@@ -21,18 +21,27 @@ const Publication = () => (
     children={
     <ul class="list-disc list-inside font-light text-base">
 
+      <li><span class="text-blue-900">Stepping Into the Black Box: Opening Up LLMs to Public Exploration Through Discursive Design </span> 
+         <ul class="list-undisc list-inside font-light text-sm indent-6">
+            <li> Sarah Immel&ast;, Neel Rajani&ast;, Rayo Verweij&ast;, Jingjie Li, Bettina Nissen, Luis Soares, and Alex Taylor</li>
+            <li> &ast;: co-first authors</li>
+            <li> ACM Designing Interactive Systems (DIS), 2026</li>
+            <li> <a href="" class="bg-slate-500"> PDF </a> <a> </a> <a class="bg-red-500" >🏆 ACM DIS Honorable Mention Award </a> </li>
+          </ul>
+      </li>
+
       <li><span class="text-blue-900">Characterizing Scam-Driven Human Trafficking Across Chinese Borders and Online Community Responses on RedNote </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Jiamin Karen Zheng, Yue Deng, Jessica Chen, Shujun Li, Yixin Zou, and Jingjie Li</li>
-            <li> ACM Conference on Human Factors in Computing Systems (CHI), 2026 (To appear)</li>
-            <li> <a href="" class="bg-slate-500"> PDF </a> </li>
+            <li> ACM Conference on Human Factors in Computing Systems (CHI), 2026</li>
+            <li> <a href="" class="bg-slate-500"> PDF </a> <a> </a> <a class="bg-red-500" >🏆 ACM CHI Best Paper Award </a> </li>
           </ul>
       </li>
 
       <li><span class="text-blue-900">Speculative Performance: Staging Intergenerational Speculation to Explore Critical Literacies of Technological Futures </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Tara Capel, Jingjie Li, Kimberley Paradis, Peter Bentley, Ryan McKay, Rupert Goodwins, Willy Barr, and Clare Duffy</li>
-            <li> ACM Conference on Human Factors in Computing Systems (CHI), 2026 (To appear)</li>
+            <li> ACM Conference on Human Factors in Computing Systems (CHI), 2026</li>
             <li> <a href="" class="bg-slate-500"> PDF </a> </li>
           </ul>
       </li>
