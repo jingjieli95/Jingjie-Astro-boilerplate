@@ -21,6 +21,35 @@ const Publication = () => (
     children={
     <ul class="list-disc list-inside font-light text-base">
 
+
+      <li><span class="text-blue-900">Investigating Chinese Tourists’ Privacy Concerns and Management of Smart Technology Applications in Tourism </span> 
+         <ul class="list-undisc list-inside font-light text-sm indent-6">
+            <li> Molly Zhuangtong Huang, Yuanquan Hu, Fiona Xi Yang, Chuang Hu, Dazhao Cheng, Xiaobo Zhou, Jingjie Li, and Kanye Ye Wang</li>
+            <li> International Journal of Human-Computer Interaction (IJHCI), 2026 (To appear)</li>
+          </ul>
+      </li>
+
+      <li><span class="text-blue-900">Understanding How University Guidelines Address Privacy and Security Issues of Generative AI in Academic Settings </span> 
+         <ul class="list-undisc list-inside font-light text-sm indent-6">
+            <li> Bei Yi Ng, Jiarui Li, Xinyuan Tong, Kevin Ye, Gauthami Yenne, Varun Chandrasekaran, and Jingjie Li</li>
+            <li> Proceedings on Privacy Enhancing Technologies Symposium (PoPETs), 2026 (To appear)</li>
+          </ul>
+      </li>
+
+      <li><span class="text-blue-900">Counsellors’ Experiences of Care and Challenge in Anonymous Gambling Helplines </span> 
+         <ul class="list-undisc list-inside font-light text-sm indent-6">
+            <li> Molly Zhuangtong Huang, Jingjie Li, Siohong Teng, Yunlong Mao, Sheng Zhong, Xiaobo Zhou, and Kanye Ye Wang</li>
+            <li> Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026 (To appear)</li>
+          </ul>
+
+      <li><span class="text-blue-900">"You Have Been Selected as the Winner": Characterizing User-Reported Scams on TikTok </span> 
+         <ul class="list-undisc list-inside font-light text-sm indent-6">
+            <li> Smirity Kaushik, Kyle Beadle, Gauri Nayak, Madelyn Rose Sanfilippo, Mainack Mondal, Yang Wang, Sai Teja Peddinti, Jingjie Li, and Yixin Zou</li>
+            <li> USENI Symposium On Usable Privacy and Security (SOUPS), 2026 (To appear)</li>
+          </ul>
+      </li>
+
+
       <li><span class="text-blue-900">Stepping Into the Black Box: Opening Up LLMs to Public Exploration Through Discursive Design </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Sarah Immel*, Neel Rajani*, Rayo Verweij*, Jingjie Li, Bettina Nissen, Luis Soares, and Alex Taylor</li>
@@ -69,7 +98,7 @@ const Publication = () => (
       <li><span class="text-blue-900">Privacy Bills of Materials: A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development  </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Zhen Tao, Shidong Pan, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li and Liming Zhu</li>
-            <li> Proceedings on Privacy Enhancing Technologies (PoPETs), 2025</li>
+            <li> Proceedings on Privacy Enhancing Technologies Symposium (PoPETs), 2025</li>
             <li> <a href="https://arxiv.org/pdf/2501.01131" class="bg-slate-500"> PDF </a> </li>
           </ul>
       </li>
