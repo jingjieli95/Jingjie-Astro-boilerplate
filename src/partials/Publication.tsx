@@ -26,21 +26,22 @@ const Publication = () => (
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Molly Zhuangtong Huang, Yuanquan Hu, Fiona Xi Yang, Chuang Hu, Dazhao Cheng, Xiaobo Zhou, Jingjie Li, and Kanye Ye Wang</li>
             <li> International Journal of Human-Computer Interaction (IJHCI), 2026 (To appear)</li>
-          </ul>
+         </ul>
       </li>
 
       <li><span class="text-blue-900">Understanding How University Guidelines Address Privacy and Security Issues of Generative AI in Academic Settings </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Bei Yi Ng, Jiarui Li, Xinyuan Tong, Kevin Ye, Gauthami Yenne, Varun Chandrasekaran, and Jingjie Li</li>
             <li> Proceedings on Privacy Enhancing Technologies Symposium (PoPETs), 2026 (To appear)</li>
-          </ul>
+         </ul>
       </li>
 
       <li><span class="text-blue-900">Counsellors' Experiences of Care and Challenge in Anonymous Gambling Helplines </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Molly Zhuangtong Huang, Jingjie Li, Siohong Teng, Yunlong Mao, Sheng Zhong, Xiaobo Zhou, and Kanye Ye Wang</li>
             <li> Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026 (To appear)</li>
-          </ul>
+         </ul>
+      </li>
 
       <li><span class="text-blue-900">"You Have Been Selected as the Winner": Characterizing User-Reported Scams on TikTok </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
@@ -57,8 +58,6 @@ const Publication = () => (
             <li> ACM Designing Interactive Systems (DIS), 2026</li>
             <li> <a href="https://dl.acm.org/doi/10.1145/3800645.3812976" class="bg-slate-500"> PDF</a> 
             <a> </a> <a class="bg-red-500" >🏆 ACM DIS Honorable Mention Award </a> </li>
-
-
           </ul>
       </li>
 
