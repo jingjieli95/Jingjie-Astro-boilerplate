@@ -22,7 +22,7 @@ const Publication = () => (
     <ul class="list-disc list-inside font-light text-base">
 
 
-      <li><span class="text-blue-900">Investigating Chinese Tourists’ Privacy Concerns and Management of Smart Technology Applications in Tourism </span> 
+      <li><span class="text-blue-900">Investigating Chinese Tourists' Privacy Concerns and Management of Smart Technology Applications in Tourism </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Molly Zhuangtong Huang, Yuanquan Hu, Fiona Xi Yang, Chuang Hu, Dazhao Cheng, Xiaobo Zhou, Jingjie Li, and Kanye Ye Wang</li>
             <li> International Journal of Human-Computer Interaction (IJHCI), 2026 (To appear)</li>
@@ -36,7 +36,7 @@ const Publication = () => (
           </ul>
       </li>
 
-      <li><span class="text-blue-900">Counsellors’ Experiences of Care and Challenge in Anonymous Gambling Helplines </span> 
+      <li><span class="text-blue-900">Counsellors' Experiences of Care and Challenge in Anonymous Gambling Helplines </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Molly Zhuangtong Huang, Jingjie Li, Siohong Teng, Yunlong Mao, Sheng Zhong, Xiaobo Zhou, and Kanye Ye Wang</li>
             <li> Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026 (To appear)</li>
