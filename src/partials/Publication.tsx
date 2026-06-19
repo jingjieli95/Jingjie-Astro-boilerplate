@@ -26,8 +26,10 @@ const Publication = () => (
             <li> Sarah Immel*, Neel Rajani*, Rayo Verweij*, Jingjie Li, Bettina Nissen, Luis Soares, and Alex Taylor</li>
             <li> *: co-first authors</li>
             <li> ACM Designing Interactive Systems (DIS), 2026</li>
-            <li> <a href="" class="bg-slate-500"> PDF </a> 
+            <li> <a href="https://dl.acm.org/doi/10.1145/3800645.3812976" class="bg-slate-500"> PDF</a> 
             <a> </a> <a class="bg-red-500" >🏆 ACM DIS Honorable Mention Award </a> </li>
+
+
           </ul>
       </li>
 
@@ -35,7 +37,7 @@ const Publication = () => (
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Jiamin Karen Zheng, Yue Deng, Jessica Chen, Shujun Li, Yixin Zou, and Jingjie Li</li>
             <li> ACM Conference on Human Factors in Computing Systems (CHI), 2026</li>
-            <li> <a href="" class="bg-slate-500"> PDF </a> 
+            <li> <a href="https://dl.acm.org/doi/10.1145/3772318.3791786" class="bg-slate-500"> PDF</a> 
             <a> </a> <a class="bg-red-500" >🏆 ACM CHI Best Paper Award </a> </li>
           </ul>
       </li>
