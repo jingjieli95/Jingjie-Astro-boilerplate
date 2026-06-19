@@ -45,7 +45,7 @@ const Publication = () => (
       <li><span class="text-blue-900">"You Have Been Selected as the Winner": Characterizing User-Reported Scams on TikTok </span> 
          <ul class="list-undisc list-inside font-light text-sm indent-6">
             <li> Smirity Kaushik, Kyle Beadle, Gauri Nayak, Madelyn Rose Sanfilippo, Mainack Mondal, Yang Wang, Sai Teja Peddinti, Jingjie Li, and Yixin Zou</li>
-            <li> USENI Symposium On Usable Privacy and Security (SOUPS), 2026 (To appear)</li>
+            <li> USENIX Symposium On Usable Privacy and Security (SOUPS), 2026 (To appear)</li>
           </ul>
       </li>
 
